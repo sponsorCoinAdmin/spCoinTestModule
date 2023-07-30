@@ -1,0 +1,11 @@
+{
+  "name": "@sponsorcoin/spcoin-test",
+  "version": "1.0.1",
+  "description": "Module to build test programs",
+  "main": "hardhatSetup/hhConnectSetup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sponsorcoin",
+  "license": "ISC"
+}
