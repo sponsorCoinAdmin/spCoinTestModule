@@ -1,8 +1,3 @@
-const { TEST_HH_ACCOUNT_LIST } = require("../hardhatSetup/hhTestAccounts");
-const { } = require("@sponsorcoin/spcoin-prod");
-
-// const {} = require("../../spCoinProdModule");
-
 let hhTestElements = undefined;
 
 getTestHHAccountKey = async (idx) => {
