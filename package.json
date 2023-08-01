@@ -1,6 +1,6 @@
 {
   "name": "@sponsorcoin/spcoin-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module to build test programs",
   "main": "hardhatSetup/hhConnectSetup.js",
   "scripts": {
